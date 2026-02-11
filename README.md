@@ -1,2 +1,9 @@
 # Zkouska
-Repozitář pro výuku GitHubu ve škole.
+
+Repozitář pro výuku GitHubu.
+
+## Autor
+Ondřej
+
+## Úkol
+Ukázka prvního commitu.
