@@ -6,3 +6,6 @@
 ## Hodina 2
 - Úprava souboru
 - Sledování historie
+
+## Shrnutí
+Git ukládá historii změn.
